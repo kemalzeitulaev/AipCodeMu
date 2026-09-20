@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Зависимости и сборка
+node_modules/
+dist/
+build/
+out/
+
+# Логи
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Секреты и локальные настройки
+.env
+.env.local
+*.pem
+*.key
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
