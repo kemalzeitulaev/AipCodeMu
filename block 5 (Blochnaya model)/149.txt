@@ -1,0 +1,12 @@
+<p> — блочный элемент (display: block).
+
+<b> — строчный элемент (display: inline).
+
+<h2> — блочный элемент (display: block).
+
+<h3> — блочный элемент (display: block).
+
+<i> — строчный элемент (display: inline).
+
+<a> — строчный элемент (display: inline).
+
